@@ -1,8 +1,15 @@
 {
   "user_id": 6919025708,
   "created_at": "2026-03-10T11:07:54.655665",
-  "sites": {},
+  "sites": {
+    "site-6919025708-1773140869": {
+      "url": "https://site-6919025708-1773140869.vercel.app",
+      "github": "https://github.com/Dark-Prince-71/site-6919025708-1773140869",
+      "created_at": "2026-03-10T11:07:56.085812",
+      "domains": []
+    }
+  },
   "daily_count": 1,
   "last_reset": "2026-03-10",
-  "last_active": "2026-03-10T11:07:54.655941"
+  "last_active": "2026-03-10T11:07:56.085824"
 }
