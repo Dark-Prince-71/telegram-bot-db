@@ -2,12 +2,6 @@
   "user_id": 8543112239,
   "created_at": "2026-03-10T11:23:34.679598",
   "sites": {
-    "hi": {
-      "url": "https://hi-lfc8lu62e-dark-prince-71s-projects.vercel.app",
-      "github": "https://github.com/Dark-Prince-71/hi",
-      "created_at": "2026-03-11T16:21:24.504229",
-      "domains": []
-    },
     "new": {
       "url": "https://new-hbrcj4r1i-dark-prince-71s-projects.vercel.app",
       "github": "https://github.com/Dark-Prince-71/new",
@@ -17,5 +11,5 @@
   },
   "daily_count": 3,
   "last_reset": "2026-03-11",
-  "last_active": "2026-03-11T16:58:04.314107"
+  "last_active": "2026-03-11T17:15:38.415163"
 }
