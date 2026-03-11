@@ -1,15 +1,8 @@
 {
   "user_id": 8543112239,
   "created_at": "2026-03-10T11:23:34.679598",
-  "sites": {
-    "new": {
-      "url": "https://new-hbrcj4r1i-dark-prince-71s-projects.vercel.app",
-      "github": "https://github.com/Dark-Prince-71/new",
-      "created_at": "2026-03-11T16:58:04.314095",
-      "domains": []
-    }
-  },
+  "sites": {},
   "daily_count": 3,
   "last_reset": "2026-03-11",
-  "last_active": "2026-03-11T17:15:38.415163"
+  "last_active": "2026-03-11T17:15:47.371131"
 }
