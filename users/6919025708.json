@@ -9,9 +9,15 @@
       "domains": [
         "www.bdlearningeasy.com"
       ]
+    },
+    "voiceconversation": {
+      "url": "https://voiceconversation-pfz5q6qcs-dark-prince-71s-projects.vercel.app",
+      "github": "https://github.com/Dark-Prince-71/voiceconversation",
+      "created_at": "2026-03-11T18:23:36.374590",
+      "domains": []
     }
   },
   "daily_count": 5,
   "last_reset": "2026-03-11",
-  "last_active": "2026-03-11T18:23:35.382939"
+  "last_active": "2026-03-11T18:23:36.374605"
 }
