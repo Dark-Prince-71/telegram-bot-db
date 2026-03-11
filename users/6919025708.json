@@ -9,9 +9,15 @@
       "domains": [
         "www.bdlearningeasy.com"
       ]
+    },
+    "voicetest": {
+      "url": "https://voicetest-5jhw3ulyi-dark-prince-71s-projects.vercel.app",
+      "github": "https://github.com/Dark-Prince-71/voicetest",
+      "created_at": "2026-03-11T18:17:47.793291",
+      "domains": []
     }
   },
   "daily_count": 3,
   "last_reset": "2026-03-11",
-  "last_active": "2026-03-11T18:17:46.563670"
+  "last_active": "2026-03-11T18:17:47.793301"
 }
