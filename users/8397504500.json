@@ -1,15 +1,8 @@
 {
   "user_id": 8397504500,
   "created_at": "2026-03-12T11:47:38.324960",
-  "sites": {
-    "sifatx": {
-      "url": "https://sifatx.vercel.app",
-      "github": "https://github.com/Dark-Prince-71/sifatx",
-      "created_at": "2026-03-13T11:21:28.362336",
-      "domains": []
-    }
-  },
+  "sites": {},
   "daily_count": 1,
   "last_reset": "2026-03-13",
-  "last_active": "2026-03-13T11:22:46.730294"
+  "last_active": "2026-03-13T11:23:07.473692"
 }
