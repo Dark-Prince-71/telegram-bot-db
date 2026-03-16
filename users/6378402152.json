@@ -1,15 +1,8 @@
 {
   "user_id": 6378402152,
   "created_at": "2026-03-16T10:31:39.869954",
-  "sites": {
-    "rabbi-info": {
-      "url": "https://rabbi-info.vercel.app",
-      "github": "https://github.com/Dark-Prince-71/rabbi-info",
-      "created_at": "2026-03-16T11:20:08.890485",
-      "domains": []
-    }
-  },
+  "sites": {},
   "daily_count": 4,
   "last_reset": "2026-03-16",
-  "last_active": "2026-03-16T11:20:08.890499"
+  "last_active": "2026-03-16T11:27:49.932858"
 }
