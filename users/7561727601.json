@@ -1,8 +1,15 @@
 {
   "user_id": 7561727601,
   "created_at": "2026-03-22T10:01:57.928363",
-  "sites": {},
+  "sites": {
+    "nexinvest": {
+      "url": "https://nexinvest.vercel.app",
+      "github": "https://github.com/Dark-Prince-71/nexinvest",
+      "created_at": "2026-03-22T10:01:58.861312",
+      "domains": []
+    }
+  },
   "daily_count": 1,
   "last_reset": "2026-03-22",
-  "last_active": "2026-03-22T10:01:57.928449"
+  "last_active": "2026-03-22T10:01:58.861323"
 }
